@@ -56,7 +56,7 @@ assumptionsTests = function(model){
 
 # Import the dataset in R and removing the first 3 columns which we don't need and one more (is_weekend)
 
-setwd('C:\\Users\\User\\Desktop\\Μεταπτυχιακό\\1) Statistics for Business Analytics I\\R Labs\\Graded Assignments\\Main Assignment 2022-23')
+setwd('XXXXXXXXXXXXXXXXX')
 training_dataset <- read.csv(file = "alldata_onlinenews_45.csv",header = TRUE, sep = ";", dec = ",")
 training_dataset <- training_dataset[,!names(training_dataset) %in% c("id", "url", "timedelta", "is_weekend")]
 training_dataset$data_channel_is_lifestyle <- as.factor(training_dataset$data_channel_is_lifestyle)
