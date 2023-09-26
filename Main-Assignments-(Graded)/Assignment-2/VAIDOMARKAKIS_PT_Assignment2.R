@@ -1,5 +1,5 @@
-
-setwd('XXXXXXXXXXXXXXXXX');
+# 1
+setwd('XXXXXXXXXXXXXXXXX'); # change this to set your working directory
 usdata <- read.table("usdata", sep = " ")
 
 str(usdata)
