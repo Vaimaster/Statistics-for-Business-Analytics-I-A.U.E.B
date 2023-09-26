@@ -1,4 +1,4 @@
-setwd(dir="C:\\Users\\User\\Desktop\\Μεταπτυχιακό\\1) Statistics for Business Analytics I\\R Labs\\Graded Assignments")
+setwd('XXXXXXXXXXXXXXXXX')
 library(foreign)
 library(psych)
 library(Hmisc)
