@@ -1,6 +1,6 @@
 # In order to execute the code properly, you need to adjust the line below to your
 # working directory
-setwd(dir="C:\\Users\\User\\Desktop\\Μεταπτυχιακό\\1) Statistics for Business Analytics I\\R Labs\\Graded Assignments")
+setwd('XXXXXXXXXXXXXXXXX')
 
 # Question 1
 
