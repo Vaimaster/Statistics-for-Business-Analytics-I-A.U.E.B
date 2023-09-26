@@ -1,6 +1,6 @@
 # In order to execute the code properly, you need to adjust the line below to your
 # working directory
-setwd('XXXXXXXXXXXXXXXXX')
+setwd('XXXXXXXXXXXXXXXXX') # change this to set your working directory
 
 # Question 1
 
