@@ -1,4 +1,4 @@
-setwd('XXXXXXXXXXXXXXXXX')
+setwd('XXXXXXXXXXXXXXXXX') # change this to set your working directory
 library(foreign)
 library(psych)
 library(Hmisc)
